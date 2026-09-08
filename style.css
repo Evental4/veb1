@@ -1,0 +1,25 @@
+  main { 
+    align-content: space-around ;
+    background-color: greenyellow;
+    color: rgb(19, 19, 238); 
+        }
+  footer{
+    display: flex;
+    align-content: flex-start;
+    background-color: goldenrod;
+    color: black; 
+        }
+  header{
+    display: flex;
+    background-color: chocolate;
+    color: aqua;
+    align-content: flex-end; 
+    justify-content:center;
+        }
+    div{
+      color: black;
+      padding-left: 20px;
+    }
+    
+     
+    
